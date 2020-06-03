@@ -148,6 +148,13 @@
 
             </RelativeLayout>
 
+            <Button
+                android:layout_width="200sp"
+                android:layout_height="40sp"
+                android:text="Govt. Services"
+                android:onClick="govt"
+                android:id="@+id/govtbtn"
+                android:background="@drawable/newgradientbtn"/>
         </LinearLayout>
 
     </LinearLayout>
